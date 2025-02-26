@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Student
+author: Larry Chen
 tags: [cscc]
 ---
 

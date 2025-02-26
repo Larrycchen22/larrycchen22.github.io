@@ -8,9 +8,13 @@ navbar_entries:
 
 project_entries:
   - title: AI and Emerging Technologies - Week 1
-    url: template-1-post
-    desc: This is an example project, template 1
+    url: intro-ai-week-1
+    desc: xxx
 
-  - title: Week 2
-    url: template-2-post
-    desc: This is an example project, template 2
+  - title: AI and Emerging Technologies - Week 2
+    url: intro-ai-week-2
+    desc: xxx
+
+  - title: AI and Emerging Technologies - Week 3
+    url: intro-ai-week-3
+    desc: xxx
