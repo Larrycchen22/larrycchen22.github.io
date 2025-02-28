@@ -1,10 +1,10 @@
 ---
 layout: post
 author: Larry Chen
-tags: [cscc]
+tags: [cscc, ai, hiring]
 ---
 
-# [AI and Emerging Technologies]
+# AI and Emerging Technologies
 
 ## Question 1: What emerging technology did you choose? How is AI being used to support this technology?
 
