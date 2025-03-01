@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Larry Chen
-tags: [cscc, ai, hiring]
+tags: [ai, hiring]
 ---
 
 # AI and Emerging Technologies

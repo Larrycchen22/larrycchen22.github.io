@@ -11,9 +11,9 @@ project_entries:
     url: intro-ai-week-1
     desc: AI-powered recruitment tools streamline hiring but raise concerns about bias, transparency, and fairness, requiring ethical safeguards.
 
-  - title: AI and Emerging Technologies - Week 2
+  - title: Machine Learning Research
     url: intro-ai-week-2
-    desc: xxx
+    desc: Machine learning is transforming healthcare by improving diagnostic accuracy, speeding up medical image analysis, and addressing ethical concerns like bias in AI models.
 
   - title: AI and Emerging Technologies - Week 3
     url: intro-ai-week-3
