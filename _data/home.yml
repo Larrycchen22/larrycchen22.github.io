@@ -15,6 +15,6 @@ project_entries:
     url: intro-ai-week-2
     desc: Machine learning is transforming healthcare by improving diagnostic accuracy, speeding up medical image analysis, and addressing ethical concerns like bias in AI models.
 
-  - title: Teachable Machine – Rock Paper Scissors Identifier  
+  - title: Teachable Machine 
     url: intro-ai-week-3
-    desc: This Rock-Paper-Scissors Identifier uses machine learning to recognize hand gestures in real-time, automating game decisions and enabling AI-powered interactive gameplay.
+    desc: Useing machine learning to recognize hand gestures in real-time, automating game decisions and enabling AI-powered interactive gameplay.
