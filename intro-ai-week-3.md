@@ -4,7 +4,7 @@ author: Larry Chen
 tags: [machine-learning, teachable-machine, ai]
 ---
 
-# Teachable Machine – Rock Paper Scissors Identifier  
+# Rock Paper Scissors Identifier
 
 ## **a. How does Teachable Machine use machine learning to solve problems?**  
 Teachable Machine uses **supervised learning** to train AI models. Users provide labeled data (images, sounds, or poses), and the system **learns patterns** using a **neural network**. It then classifies new inputs based on the training data, enabling real-time AI-based predictions without requiring programming knowledge.
