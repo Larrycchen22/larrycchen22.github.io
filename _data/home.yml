@@ -19,6 +19,6 @@ project_entries:
     url: intro-ai-week-3
     desc: Using machine learning to recognize hand gestures in real-time, automating game decisions and enabling AI-powered interactive gameplay.
 
-  - title: Deep Learning
-    url: intro-ai-week-4
-    desc: xxx
+  - title: Ask LLM about a Book  
+    url: intro-ai-week-5
+    desc: Exploring how ChatGPT interprets and analyzes literature, comparing AI-driven insights with human reasoning and discussing prompt engineering challenges.  
