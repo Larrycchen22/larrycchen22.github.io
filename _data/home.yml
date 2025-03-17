@@ -21,4 +21,8 @@ project_entries:
 
   - title: Ask LLM about a Book  
     url: intro-ai-week-5
-    desc: Exploring how ChatGPT interprets and analyzes literature, comparing AI-driven insights with human reasoning and discussing prompt engineering challenges.  
+    desc: Exploring how ChatGPT interprets and analyzes literature, comparing AI-driven insights with human reasoning and discussing prompt engineering challenges.
+
+  - title: AI Hiring and Ethical Issues  
+    url: intro-ai-week-6
+    desc: Examining how Machine Learning models influence hiring processes, their benefits and risks, and strategies to ensure fair and ethical AI-driven recruitment.  
